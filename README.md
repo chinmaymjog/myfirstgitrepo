@@ -1,2 +1,2 @@
 # myfirstgitrepo
-This is teat repo to test git functionality
+This is repo to test git functionality
